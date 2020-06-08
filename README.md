@@ -1,2 +1,2 @@
-# specerijtje
+# Specerijtje
 Lijst met specerijenmengsels
